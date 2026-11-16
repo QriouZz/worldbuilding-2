@@ -1,0 +1,7 @@
+{
+  "name": "worldbuilding-2",
+  "private": true,
+  "dependencies": {
+    "world-building-framework": "0.2.11"
+  }
+}
