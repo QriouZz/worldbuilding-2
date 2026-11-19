@@ -1,6 +1,6 @@
 {
   "title": "Worldbuilding 2",
-  "entityTypes": [],
+  "entityTypes": ["character"],
   "buildVariants": {
     "wiki": {}
   }
